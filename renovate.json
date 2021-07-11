@@ -13,5 +13,5 @@
 		"enabled": true,
 		"automerge": true
 	},
-      "requiredStatusChecks": null
+    	"requiredStatusChecks": null
 }
